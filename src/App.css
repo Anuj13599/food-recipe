@@ -4,8 +4,13 @@
   padding: 70px 0;
   text-align: center;
 }
-
-
 .brand-icon {
     font-size: 70px;
 }
+
+.Logout{
+  position: absolute;
+  left: 1270px;
+  top: 10px;
+  background-color: #51a351;
+  }
